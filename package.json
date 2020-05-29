@@ -1,0 +1,20 @@
+{
+  "name": "johschaeder.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohSchaeder/johschaeder.github.io.git"
+  },
+  "keywords": [],
+  "author": "Johannes Schaeder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohSchaeder/johschaeder.github.io/issues"
+  },
+  "homepage": "https://github.com/JohSchaeder/johschaeder.github.io#readme"
+}
